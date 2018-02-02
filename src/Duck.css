@@ -1,0 +1,15 @@
+.DuckTitle:first-letter {
+    text-transform:capitalize;
+}
+
+.DuckDiv {
+    padding: 30px;
+}
+
+.DuckTitle {
+    color: #454545
+}
+
+div {
+    color: #454545
+}

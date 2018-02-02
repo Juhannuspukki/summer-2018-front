@@ -1,0 +1,15 @@
+option {
+    text-transform: capitalize;
+}
+
+.formContainer {
+    margin: 30px 0 50px 0;
+}
+
+#conditionallyHidden {
+    opacity: 0;
+}
+
+.padded {
+    padding-top: 30px;
+}
